@@ -1,0 +1,4 @@
+#container .business .agent{
+    display: flex;
+    flex-direction: column;
+}
